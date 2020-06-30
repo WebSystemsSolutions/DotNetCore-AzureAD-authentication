@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>SwaggerAAD</name>
+  </assembly>
+  <members>
+    <member name="M:SwaggerAAD.Controllers.AccountController.GetUserInfoWithToken">
+      <summary>
+        Get user info with token
+      </summary>
+      <returns></returns>
+    </member>
+  </members>
+</doc>
